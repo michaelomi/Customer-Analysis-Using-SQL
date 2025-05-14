@@ -185,3 +185,5 @@ The insights from this project translate directly into measurable business outco
 ## 🛠️ Technologies Used
 - **🖥️ SQL:** Microsoft SQL Server for querying and analysis.
 - **🤖 AI:** ChatGPT for assistance.
+- **Data Source** 📊: Link to Kaggle Dataset [here](https://www.kaggle.com/datasets/daichiuchigashima/thelook-ecommerce/data)
+
